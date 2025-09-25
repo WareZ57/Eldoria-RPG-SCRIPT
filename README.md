@@ -12,14 +12,14 @@
 
 ###
 
-<p align="left">loadstring(game:HttpGet("https://github.com/WareZ57/Eldoria-RPG-SCRIPT/blob/main/EldoriaRPG.lua"))()</p>
+<p align="center">loadstring(game:HttpGet("https://github.com/WareZ57/Eldoria-RPG-SCRIPT/blob/main/EldoriaRPG.lua"))()</p>
 
 ###
 
-<h2 align="left">Features :</h2>
+<h2 align="center">Features :</h2>
 
 
-<p align="left">
+<p align="center">
 - Player Info Display<br>
 - FPS Counter<br>
 - Ping Display<br>
@@ -55,11 +55,11 @@
 - Configuration Saving<br>
 </p>
 
-<p align="left">Next Features : Auto harvest </p>
+<p align="center">Next Features : Auto harvest </p>
 
 ###
 
-<p align="left">
+<p align="center">
   Credits (base script) : 
   <a href="https://rscripts.net/script/upd-eldoria-rpg-zwkQ">ChimeraGaming</a>
 </p>
@@ -67,12 +67,12 @@
 
 ###
 
-<h2 align="left">Made & Tested with</h2>
+<h2 align="center">Made & Tested with</h2>
 
 ###
 
 
-<p align="left">
+<p align="center">
   <a href="https://sirius.menu/" target="_blank">
     <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
   </a>
