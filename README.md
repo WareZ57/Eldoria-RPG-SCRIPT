@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">loadstring(game:HttpGet("[https://github.com/WareZ57/Eldoria-RPG-SCRIPT/blob/main/EldoriaRPG.lua](https://raw.githubusercontent.com/WareZ57/Eldoria-RPG-SCRIPT/refs/heads/main/EldoriaRPG.lua)"))()</p>
+<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/Eldoria-RPG-SCRIPT/refs/heads/main/EldoriaRPG.lua"))()</p>
 
 ###
 
